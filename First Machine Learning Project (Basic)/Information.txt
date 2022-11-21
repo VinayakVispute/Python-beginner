@@ -1,0 +1,14 @@
+Steps:
+	1. Import the Data
+	2. Clean the Data (Duplicate Data or Irrelevante or Incomplete Data)
+	3. Split the Data into Traning / Test Sets
+	4. Create a Model (Selecting Machine Learning Algorithm) Popular Libaries  :  Scikit- Learn
+	5. Train the Model
+	6. Make Predictions
+	7. Evaluate and Improve (70% - 80% to Learning & 10% - 20% for Asking)
+
+Libraries & Tools : 
+     Numpy : Provides Multidimmesion Array
+     Pandas: Data Anaylistic Libaray  provides a Concept called Dataframe (Similar to Excel Sheet)
+     MatPlotLib: 2D Ploting Libaray for creating Graphs and Plots
+     Scikit Learn : Popular Machine Learning Libaray
